@@ -12,7 +12,7 @@
 <tr>
 <td align="center">
 
-![Merlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tunkasina&show_icons=true)  
+![Tunkasina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tunkasina&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tunkasina&layout=donut-vertical)  
 
 </td>
